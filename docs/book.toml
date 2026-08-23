@@ -1,0 +1,14 @@
+[book]
+authors = ["Mark Veltzer <mark.veltzer@gmail.com>"]
+language = "en"
+src = "src"
+title = "rssvglint - Rust version of svglint"
+
+[build]
+build-dir = "book"
+
+[output.html]
+default-theme = "rust"
+preferred-dark-theme = "ayu"
+git-repository-url = "https://github.com/veltzer/rssvglint"
+edit-url-template = "https://github.com/veltzer/rssvglint/edit/master/docs/{path}"
