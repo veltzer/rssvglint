@@ -1,4 +1,5 @@
 # rssvglint
+
 Svg linter written in rust
 
 Sure, but that's a significant project — it would need XML parsing, SVG validation rules, and a CLI. Before I
