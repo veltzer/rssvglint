@@ -1,3 +1,5 @@
+//! rssvglint: Rust version of svglint.
+
 fn main() {
     println!("Hello, World!");
 }
